@@ -1,0 +1,12 @@
+.iconListItem {
+  display: flex;
+  vertical-align: top;
+  margin-bottom: 10px;
+}
+
+.iconListItem > i .icon {
+  height: 1em;
+  width: 1em;
+  margin-right: 15px;
+  object-fit: contain;
+}

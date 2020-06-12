@@ -1,0 +1,19 @@
+.section {
+  margin: 0.35cm 0;
+  font-weight: lighter;
+  display: flex;
+}
+
+.section > i .icon {
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-right: 10px;
+}
+
+.section .title {
+  font-weight: normal;
+  text-transform: uppercase;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+  font-size: 2.5rem;
+}

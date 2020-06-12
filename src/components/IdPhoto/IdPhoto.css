@@ -1,0 +1,10 @@
+.idPhoto {
+  height: 41mm;
+  width: 45mm;
+  margin-bottom: 0.5cm;
+  box-shadow: gray 0px 0px 5px 1px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: 0 -15px;
+  align-self: center;
+}

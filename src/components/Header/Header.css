@@ -1,0 +1,26 @@
+.aboutMe {
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.aboutMe .wrapperA {
+  display: flex;
+}
+
+.aboutMe .wrapperB {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.aboutMe .wrapperC {
+  display: flex;
+  justify-content: space-between;
+}
+
+.aboutMe .wrapperB .title {
+  font-size: 3rem;
+  text-align: center;
+  font-variant: small-caps;
+}
